@@ -36,3 +36,7 @@ Controller -> This stands for Logic which means that most of our logic handling 
 Model -> This is where the data of our actual game is processed and sent between 	controllers for processing.
 
 Views -> This provides both our GUI application for Server and Client. Server is 	able to run on the command line but that's not as cool.  
+
+JavaDoc
+================================
+https://wanghharrisonh.github.io/cs56-client-server-javadoc/javadoc/index.html
